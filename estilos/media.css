@@ -22,9 +22,6 @@
         height: 100%;       
     }
 
-    #formulario > h1 {
-        font-size: 2em;
-    }
     
 }
 
@@ -48,6 +45,10 @@
     #formulario{
         float: left;
         width: 50%;
+    }
+
+    #formulario > h1 {
+        font-size: 2em;
     }
 
     #formulario > p {
